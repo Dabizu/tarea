@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Dabizu Garushia\\Documents\\ejemplos_en_c#\\Proyecto_mvc_pdf\\test-mvc-webapp\\test-mvc-webapp.csproj",
+  "FilePath": "c:\\Users\\Dabizu Garushia\\Documents\\carpeta contenedora de git\\tarea-1\\test-mvc-webapp\\test-mvc-webapp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,38 +20521,38 @@
   "RootNamespace": "test_mvc_webapp",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Dabizu Garushia\\Documents\\ejemplos_en_c#\\Proyecto_mvc_pdf\\test-mvc-webapp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Dabizu Garushia\\Documents\\ejemplos_en_c#\\Proyecto_mvc_pdf\\test-mvc-webapp\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Dabizu Garushia\\Documents\\ejemplos_en_c#\\Proyecto_mvc_pdf\\test-mvc-webapp\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Dabizu Garushia\\Documents\\ejemplos_en_c#\\Proyecto_mvc_pdf\\test-mvc-webapp\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Dabizu Garushia\\Documents\\ejemplos_en_c#\\Proyecto_mvc_pdf\\test-mvc-webapp\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\Dabizu Garushia\\Documents\\carpeta contenedora de git\\tarea-1\\test-mvc-webapp\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Dabizu Garushia\\Documents\\ejemplos_en_c#\\Proyecto_mvc_pdf\\test-mvc-webapp\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\Dabizu Garushia\\Documents\\carpeta contenedora de git\\tarea-1\\test-mvc-webapp\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Dabizu Garushia\\Documents\\ejemplos_en_c#\\Proyecto_mvc_pdf\\test-mvc-webapp\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\Dabizu Garushia\\Documents\\carpeta contenedora de git\\tarea-1\\test-mvc-webapp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dabizu Garushia\\Documents\\carpeta contenedora de git\\tarea-1\\test-mvc-webapp\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dabizu Garushia\\Documents\\carpeta contenedora de git\\tarea-1\\test-mvc-webapp\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dabizu Garushia\\Documents\\carpeta contenedora de git\\tarea-1\\test-mvc-webapp\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dabizu Garushia\\Documents\\carpeta contenedora de git\\tarea-1\\test-mvc-webapp\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],
